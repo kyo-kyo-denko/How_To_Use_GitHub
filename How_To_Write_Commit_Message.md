@@ -30,6 +30,7 @@ Prefix : タイトル
 - upgrade : バージョンアップ
 - revert : 修正取り消し
 - docs : ドキュメントのみの修正
+- other : その他
 
 ## 3行目以降
 
